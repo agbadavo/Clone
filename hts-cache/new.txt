@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:57:55	49472/49472	---MCZ	200	added ('OK')	text/html	etag:e6fbdb96b62c8f62d134f58f7ed48555	https://chime642.godaddysites.com/	/root/Desktop/TDL/chime642.godaddysites.com/index.html	(from )
+21:57:55	48/48	---MCZ	200	added ('OK')	text/plain	etag:f84dd2eadf71d19ac07834f908eaa482	https://chime642.godaddysites.com/robots.txt		(from )
+21:57:56	401/401	---MCZ	200	added ('OK')	application/manifest+json	etag:eb88ca47d9b704f6631dbc2ddb0fddd5	https://chime642.godaddysites.com/manifest.webmanifest	/root/Desktop/TDL/chime642.godaddysites.com/manifest.webmanifest	(from https://chime642.godaddysites.com/)
+21:57:57	31272/31272	---MCZ	200	added ('OK')	application/javascript	etag:cf7682c8438389cd6b80a1864a3ac930	https://chime642.godaddysites.com/sw.js	/root/Desktop/TDL/chime642.godaddysites.com/sw.js	(from https://chime642.godaddysites.com/)
+21:57:58	33157/33157	---MCZ	200	added ('OK')	text/html	etag:48fb406e9359bf0ab2c50ef5e2997ec2	https://chime642.godaddysites.com/privacy-policy	/root/Desktop/TDL/chime642.godaddysites.com/privacy-policy.html	(from https://chime642.godaddysites.com/)
